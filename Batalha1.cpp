@@ -3,6 +3,8 @@
 #include <unistd.h> // Para a fun��o sleep(dormir)
 #include <cstdlib> // Para a fun��o system(usado para limpar o terminal) e para sair do jogo
 #include <string.h>
+
+//Batalha Naval
 using namespace std;
 const int tamanho=10;
 void tabuleiro(string tab[tamanho][tamanho]);
